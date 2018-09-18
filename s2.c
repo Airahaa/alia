@@ -7,7 +7,7 @@ int main()
 
     scanf("%d%d",&a,&b);
     d=a-b;
-    printf("The difference of 2 numbers is %d",d);
+    printf("The difference of  numbers is %d",d);
 
 }
 
