@@ -2,11 +2,11 @@
 int main()
 {
 
-    int a,b,sum;
+    int a,b,c,sum;
     printf("Enter the value for a and b\n");
 
-    scanf("%d%d",&a,&b);
-    sum=a+b;
-    printf("The sum of 2 numbers is %d",sum);
+    scanf("%d%d%d",&a,&b,&c);
+    sum=a+b+c;
+    printf("The sum of numbers is %d",sum);
 
 }
